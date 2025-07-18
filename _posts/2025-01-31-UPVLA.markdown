@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "UP-VLA: A Unified Understanding and Prediction Model for Embodied Agent"
+date:   2025-01
+image: /images/upvla.png
+categories: research
+# author: " Keselman"
+authors: "Jianke Zhang, Yanjiang Guo, Yucheng Hu, Xiaoyu Chen, <strong>Xiang Zhu</strong>, Jianyu Chen"
+venue: "International Conference on Machine Learning(ICML)"
+pdf: https://arxiv.org/pdf/2501.18867?
+# code: https://github.com/roboterax/humanoid-gym
+---

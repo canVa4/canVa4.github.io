@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "A Contact-Safe Reinforcement Learning Framework for Contact-Rich Robot Manipulation"
+date:   2022-10
+image: /images/PingPong.png
+categories: research
+# author: " Keselman"
+authors: "<strong>Xiang Zhu</strong>, Zixuan Chen, Jianyu Chen"
+venue: "arXiv preprint"
+pdf: https://arxiv.org/pdf/2309.08904
+# code: https://github.com/roboterax/humanoid-gym
+---

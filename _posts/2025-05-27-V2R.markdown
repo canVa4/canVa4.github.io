@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Learning Generalizable Robot Policy with Human Demonstration Video as a Prompt"
+date:   2025-05
+image: /images/V2R.png
+categories: research
+# author: " Keselman"
+authors: "<strong>Xiang Zhu</strong>, Yichen Liu, Hezhong Li, Jianyu Chen"
+venue: "arXiv preprint"
+pdf: https://arxiv.org/pdf/2505.20795
+# code: https://github.com/roboterax/humanoid-gym
+---
