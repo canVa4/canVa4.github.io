@@ -10,4 +10,4 @@ venue: "Robotics: Science and Systems (RSS)"
 pdf: https://arxiv.org/pdf/2408.14472
 code: https://github.com/roboterax/humanoid-gym
 ---
-**Best Paper Award Finalists**.
+**Best Paper Award Finalists**. 123

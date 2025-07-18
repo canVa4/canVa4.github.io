@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "UP-VLA: A Unified Understanding and Prediction Model for Embodied Agent"
-date:   2025-01
+date:   2025-01-31
 image: /images/upvla.png
 categories: research
 # author: " Keselman"
@@ -10,3 +10,4 @@ venue: "International Conference on Machine Learning(ICML)"
 pdf: https://arxiv.org/pdf/2501.18867?
 # code: https://github.com/roboterax/humanoid-gym
 ---
+123

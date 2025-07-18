@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Stylized table tennis robots skill learning with incomplete human demonstrations"
-date:   2023-09-16
+date:   2022-10-23
 image: /images/contactSaveRL.png
 categories: research
 # author: " Keselman"
@@ -10,3 +10,4 @@ venue: "International Conference on Intelligent Robots and Systems (IROS)"
 pdf: https://arxiv.org/pdf/2207.13438
 # code: https://github.com/roboterax/humanoid-gym
 ---
+123
