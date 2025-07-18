@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Advancing humanoid locomotion: Mastering challenging terrains with denoising world model learning"
-# date:   2024-08-26
+date:   2024-08-26
 image: /images/DWL.png
 categories: research
 # author: " Keselman"
