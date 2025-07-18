@@ -10,4 +10,3 @@ venue: "arXiv preprint"
 pdf: https://arxiv.org/pdf/2309.08904
 # code: https://github.com/roboterax/humanoid-gym
 ---
-123

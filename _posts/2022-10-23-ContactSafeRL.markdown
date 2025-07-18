@@ -10,4 +10,3 @@ venue: "International Conference on Intelligent Robots and Systems (IROS)"
 pdf: https://arxiv.org/pdf/2207.13438
 # code: https://github.com/roboterax/humanoid-gym
 ---
-123
