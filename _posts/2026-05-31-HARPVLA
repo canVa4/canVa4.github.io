@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "HARP-VLA: Human-Robot Aligned Representation Learning for Vision-Language-Action Model"
+date:   2026-05-31
+image: /images/HRAP-VLA.png
+categories: research
+# author: " Keselman"
+authors: "<strong>Xiang Zhu</strong>, Puzhen Yuan, Yichen Liu, Jianyu Chen"
+venue: "arXiv preprint"
+pdf: https://arxiv.org/html/2605.31234v1
+# code: https://github.com/roboterax/humanoid-gym
+---
