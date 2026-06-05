@@ -6,7 +6,7 @@ image: /images/V2R.png
 categories: research
 # author: " Keselman"
 authors: "<strong>Xiang Zhu</strong>, Yichen Liu, Hezhong Li, Jianyu Chen"
-venue: "arXiv preprint"
+venue: "ICRA 2026"
 pdf: https://arxiv.org/pdf/2505.20795
 # code: https://github.com/roboterax/humanoid-gym
 ---
