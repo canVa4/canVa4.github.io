@@ -6,7 +6,7 @@ image: /images/HRAP_VLA.png
 categories: research
 # author: " Keselman"
 authors: "<strong>Xiang Zhu</strong>, Puzhen Yuan, Yichen Liu, Jianyu Chen"
-venue: "arXiv preprint"
+venue: "CoRL 2026"
 pdf: https://arxiv.org/html/2605.31234v1
 # code: https://github.com/roboterax/humanoid-gym
 ---
