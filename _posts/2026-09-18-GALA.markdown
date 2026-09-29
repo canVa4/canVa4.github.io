@@ -5,7 +5,7 @@ date:   2026-09-18
 image: /images/GALA.png
 categories: research
 # author: " Keselman"
-authors: "<strong>Xiang Zhu</strong>, Puzhen Yuan, Yichen Liu, Jianyu Chen"
+authors: "<strong>Xiang Zhu*</strong>, Puzhen Yuan*, Yichen Liu*, Yanjing Guo, Jianyu Chen"
 venue: "under review at ICRA 2027"
 pdf: https://arxiv.org/abs/2609.21948
 # code: https://github.com/roboterax/humanoid-gym
